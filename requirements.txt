@@ -9,3 +9,5 @@ aif360>=0.5.0
 # fairlearn   # for aif360[Reductions]
 # inFairness  # for aif360[inFairness]
 jupyter>=1.0.0 
+
+pip install -r requirements.txt
