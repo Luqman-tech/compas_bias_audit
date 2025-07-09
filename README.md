@@ -184,10 +184,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: Philip Kisaih Iringo
+- **Email**: philipiringo@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/philipkisaihiringo/
+- **GitHub**: https://github.com/Luqman-tech
 
 ## 🔬 Future Work
 
